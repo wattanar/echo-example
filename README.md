@@ -3,7 +3,7 @@ Echo framework for go example code
 
 # Install
 ```shell
-  go get github.com/labstack/echo
+go get github.com/labstack/echo
 ```
 # Run
 ```shell
